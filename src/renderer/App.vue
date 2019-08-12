@@ -12,4 +12,13 @@
 
 <style>
   /* CSS */
+
+  html, body {
+    padding: 0px;
+    margin: 0px;
+
+  }
+  ul {
+    list-style: none;
+  }
 </style>
